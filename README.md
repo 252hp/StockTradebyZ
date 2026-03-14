@@ -222,3 +222,13 @@ data/review/日期/suggestion.json
 - 检查 pick_date 是否在有效交易日
 
 ---
+
+## License
+
+本项目采用 [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) 协议发布。
+
+- 允许：学习、研究、非商业用途的使用与分发
+- 禁止：任何形式的商业使用、出售或以盈利为目的的部署
+- 要求：转载或引用须注明原作者与来源
+
+Copyright © 2026 SebastienZh. All rights reserved.
